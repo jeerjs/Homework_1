@@ -6,7 +6,6 @@
 
 body {
     background-color: #d9dcd6;
-    background-image: ;
 }
 
 a {
@@ -14,7 +13,7 @@ a {
     text-decoration: none;
     position: relative;
     top: -40px;
-}
+} 
 
 p {
     font-size: 16px;
@@ -38,7 +37,7 @@ p {
     color: #d9dcd6;
 }
 
-.header ul li {
+.header li {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -56,6 +55,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    margin-top: 0px;
 }
 
 .float-left {
