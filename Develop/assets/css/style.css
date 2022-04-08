@@ -11,6 +11,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
 .header h1 .seo {
@@ -18,7 +19,7 @@
 }
 
 ,header font {
-    font-size: ;
+    font-size: 200%;
 }
 
 /* Nav Bar elements */
@@ -36,7 +37,6 @@
         float: right;
         word-spacing: 10%;
         padding-top: -20px;
-        padding-top: -20px;
         padding-right: 30px;
 }
 
@@ -46,7 +46,6 @@
         float: right;
         word-spacing: 10%;
         padding-top: -20px;
-        padding-top: -20px;
         padding-right: 30px;
 }
 
@@ -55,7 +54,7 @@
         display: inline;
         float: right;
         word-spacing: 10%;
-        padding-top: -20px;
+        padding-top: -50px;
         padding-right: 30px;
 }
 
