@@ -6,15 +6,6 @@
 }
 
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
                         /* Header in NAV Bar "Horiseon" */
 .header {
     padding: 25px;
@@ -40,7 +31,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-                    /* Social Media Marketing Anchor */
+                            /* Social Media Marketing Anchor */
 .nav1  {
     list-style-type: none;
         display: inline;
@@ -50,7 +41,7 @@ p {
         padding-right: 30px;
 }
 
-                    /* Online reputation Management Anchor */
+                        /* Online reputation Management Anchor */
 .nav2   {
     list-style-type: none;
         display: inline;
@@ -59,7 +50,7 @@ p {
         padding-top: -20px;
         padding-right: 30px;
 }
-                    /* Search Engine Optimization */
+                        /* Search Engine Optimization */
 .nav3   {
     list-style-type: none;
         display: inline;
@@ -73,6 +64,15 @@ p {
 
 body {
     background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 .hero {
@@ -103,12 +103,13 @@ body {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    padding-bottom: 68px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .benefit-lead {
